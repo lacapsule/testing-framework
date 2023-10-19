@@ -4,7 +4,7 @@ Une suite de scripts permattant d'effectuer des tests, de détruire des données
 **UTILISATION ->**<br>
 Se positionner dans le dossier téléchargé :
 
-<pre><code>cd testing-framework 
+<pre><code>cd testing-framework-main 
 </code></pre>
 
 Prendre les droits d'execution sur le fichier multitool.sh
